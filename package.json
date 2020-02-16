@@ -1,0 +1,23 @@
+{
+    "name": "shadowrun-fan-theme",
+    "displayName": "Shadowrun Fan Theme",
+    "description": "Theme based off Harebrained Schemes games.",
+    "version": "0.0.1",
+	"publisher": "danieljudd",
+	"repository": "https://github.com/danieljudd",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "shadowrun-fan-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/shadowrun-fan-theme-color-theme.json"
+            }
+        ]
+    }
+}
