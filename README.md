@@ -7,7 +7,7 @@
     Click Reload
     File > Preferences > Color Theme > shadowrun-fan-theme
 
-GitHub Repository Clone
+##GitHub Repository Clone
 
 Change to your .vscode/extensions VS Code extensions directory. Depending on your platform it is located in the following folders:
 
@@ -17,10 +17,11 @@ Change to your .vscode/extensions VS Code extensions directory. Depending on you
 
 Clone the theme repository as shadowrun-fan-theme:
 
-git clone https://github.com/danieljudd/shadowrun-fan-theme.git shadowrun-fan-theme
+    git clone https://github.com/danieljudd/shadowrun-fan-theme.git shadowrun-fan-theme
 
-Afterwards, you will need to activate the theme via File > Preferences > Color Theme > shadowrun-fan-theme
-### Me
+-Afterwards, you will need to activate the theme via File > Preferences > Color Theme > shadowrun-fan-theme
+
+
 * https://github.com/danieljudd
 
 **Enjoy!**
